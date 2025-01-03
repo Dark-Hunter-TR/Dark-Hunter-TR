@@ -46,7 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dark-Hunter-TR&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true" alt="Technological Impact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhunter&theme=midnight-purple" alt="Coding Momentum" />
 </p>
 
 ---
