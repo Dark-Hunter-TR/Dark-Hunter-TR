@@ -14,7 +14,7 @@ Backend Rocket Engines
 Database Nebulae
 <p align="center"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
 🛸 Cosmic Development Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dark-Hunter-TR&theme=midnight-purple&show_icons=true" alt="Cosmic GitHub Stats" /> <img src="https://streak-stats.demolab.com/?user=darkhunter&theme=midnight-purple" alt="Coding Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dark-Hunter-TR&theme=midnight-purple&show_icons=true" alt="Cosmic GitHub Stats" />
 🌠 Young Developer's Mission
 "Exploring the infinite possibilities of code, one star system at a time"
 
