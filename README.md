@@ -1,23 +1,86 @@
-<h1 align="center">🚀 Dark-Hunter-TR | Young Tech Astronaut 🛰️</h1> <p align="center">"Coding the future, one galaxy at a time"</p>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A5F7&center=true&vCenter=true&width=435&lines=16+Years+Old+Developer;Space+Tech+Enthusiast;Full+Stack+Explorer;Future+Tech+Innovator" alt="Typing SVG" /> </p>
-🌠 About Young Dark-Hunter-TR
-🚀 Coding Prodigy: 16-year-old developer with 5 years of passionate programming experience
-🛰️ Tech Explorer: Navigating through complex coding galaxies
-💻 Skill Constellation: Mastering JavaScript, TypeScript, Node.js, C#, and MongoDB
-🌍 Learning Trajectory: Continuously expanding technological horizons
-🧠 Young Innovator: Transforming ideas into digital universes
-🌌 Technology Constellation
-Core Programming Languages
-<p align="center"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> </p>
-Backend Rocket Engines
-<p align="center"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> </p>
-Database Nebulae
-<p align="center"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
-🛸 Cosmic Development Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dark-Hunter-TR&theme=midnight-purple&show_icons=true" alt="Cosmic GitHub Stats" /> <img src="https://streak-stats.demolab.com/?user=Dark-Hunter-TR&theme=midnight-purple" alt="Coding Streak" /> </p>
-🌠 Young Developer's Mission
-"Exploring the infinite possibilities of code, one star system at a time"
+<h1 align="center">🌊 Welcome to Dark-Hunter-TR | Backend Developer 🌟</h1>  
+<p align="center">"Building the backbone of the web, one line of code at a time"</p>  
 
-🛰️ Mission Control Connections
-<p align="center"> <a href="mailto:DarkHunter@hotmail.com"><img src="https://img.shields.io/badge/-Mission%20Control-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> <a href="https://github.com/Dark-Hunter-TR"><img src="https://img.shields.io/badge/-GitHub%20Space%20Station-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
-Launching dreams into the coding cosmos 🌌🚀
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open-Source+Enthusiast;JavaScript%2C+Python%2C+TypeScript;Creating+Scalable+Solutions" alt="Typing SVG" />
+</p>
+
+---
+
+## 📋 About Me  
+
+- 🌟 **Passionate Developer:** Experienced in creating scalable, secure, and maintainable backend systems.  
+- 🛠️ **Tech Stack Lover:** Proficient in JavaScript, Python, TypeScript, Node.js, and more.  
+- 🌊 **Inspired by Aesthetics:** I focus on clean, efficient code and modern designs.  
+- 🚀 **Always Learning:** Continuously exploring new technologies and frameworks to enhance my skillset.  
+- 🤝 **Open-Source Advocate:** I believe in giving back to the community through meaningful contributions.  
+
+---
+
+## 🚀 Technologies & Tools  
+
+### **Languages**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>  
+
+### **Frameworks & Libraries**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>  
+
+### **Databases**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>  
+
+### **DevOps & Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>  
+
+---
+
+## 🛸 Cosmic Development Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dark-Hunter-TR&theme=midnight-purple&show_icons=true" alt="Cosmic GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Dark-Hunter-TR&theme=midnight-purple&background=000000" alt="Coding Streak" />
+</p>  
+
+---
+
+## 🌟 Featured Projects  
+
+> **Coming soon!** 🎉 I'm working on my new projects, stay tuned!
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:DarkHunter@hotmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://darkhunter.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>  
+
+---
+
+## 🏆 Achievements  
+
+- **🏅 Certified in:**  
+  - Node.js Web Programming (BTK Academy).   
+- **🌟 Open Source Contributions:** Regular contributor to various repositories and projects.  
+
+---
+
+*"Coding backend solutions as smooth as the waves!"*
