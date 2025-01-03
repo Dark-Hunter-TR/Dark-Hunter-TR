@@ -74,7 +74,7 @@
 ## 🛰️ Mission Control Connections
 
 <p align="center">
-  <a href="mailto:DarkHunter@hotmail.com"><img src="https://img.shields.io/badge/-Mission%20Control-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://darkhunter.vercel.app"><img src="https://img.shields.io/badge/-Personal%20Portfolio-4A154B?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="https://github.com/Dark-Hunter-TR"><img src="https://img.shields.io/badge/-GitHub%20Space%20Station-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
