@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A5F7&center=true&vCenter=true&width=435&lines=16+Years+Old+Innovator;Full+Stack+Space+Engineer;Technology+Pioneer;Future+Digital+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A5F7&center=true&vCenter=true&width=435&lines=16+Years+Old+Innovator;Backend+Developer;Technology+Pioneer;Future+Digital+Architect" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### 🚀 Professional Snapshot
 - **Age:** 16 years old
 - **Experience:** 5 years of intensive programming exploration
-- **Specialization:** Full-stack development with cosmic precision
+- **Specialization:** Backend development with cosmic precision
 - **Vision:** Transforming complex technological challenges into elegant solutions
 
 ### 💻 Technical Constellation
