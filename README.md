@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Backend+Developer;IT+Student;Discord+Bot+Developer;API+Developer;Database+Architect" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/581884583985807381">
+    <img src="https://lanyard.cnrad.dev/api/581884583985807381?idleMessage=Backend%20Developer%20&%20Open-Source%20Contributor" alt="Discord Presence" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
