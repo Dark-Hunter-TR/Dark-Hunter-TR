@@ -1,6 +1,6 @@
 # Dark-Hunter-TR
 
-### Backend Developer | IT Student | Full-Stack Enthusiast
+### Backend Developer | Full-Stack Enthusiast
 
 ```ascii
 ┌─────────────────────────────────────────────────────────────┐
