@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/581884583985807381?showDisplayName=true)](https://discord.com/users/581884583985807381)
+[![Discord Presence](https://lanyard.cnrad.dev/api/581884583985807381?showDisplayName=true&bg=e1e7e5)](https://discord.com/users/581884583985807381)
 
 ---
 
