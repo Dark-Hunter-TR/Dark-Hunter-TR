@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/581884583985807381?idleMessage=Backend%20Developer%20%26%20Open-Source%20Contributor&hideTimestamp=true&bg=0a0a0a&borderRadius=12px)](https://discord.com/users/581884583985807381)
+[![Discord Presence](https://lanyard.cnrad.dev/api/581884583985807381?showDisplayName=true)](https://discord.com/users/581884583985807381)
 
 ---
 
