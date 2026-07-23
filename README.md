@@ -1,89 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Dark_Hunter;Backend+Developer;Discord+Bot+Architect;Full-Stack+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:111111&height=200&section=header&text=Dark_Hunter&fontSize=55&fontColor=3B82F6&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffff" alt="header banner" width="100%"/>
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  > Backend Development    > Discord Bot Architecture         │
-│  > RESTful API Design     > Database Engineering             │
-│  > Full-Stack Solutions   > System Integration                │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Coding+since+age+13+%7C+Now+18;Node.js+%2F+TypeScript+%2F+Express;Discord+Bot+Architect;MongoDB+%26+RESTful+API+Design" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dark-Hunter-TR&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Dark-Hunter-TR?label=FOLLOWERS&style=for-the-badge&color=3B82F6&labelColor=0a0a0a" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Dark-Hunter-TR?label=STARS&style=for-the-badge&color=3B82F6&labelColor=0a0a0a" alt="Stars"/>
+</p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/581884583985807381?showDisplayName=true&bg=e1e7e5)](https://discord.com/users/581884583985807381)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Dark-Hunter-TR&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Dark-Hunter-TR?label=FOLLOWERS&style=flat-square&color=3B82F6&labelColor=0a0a0a" alt="Followers"/>
-</p>
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Speech%20balloon/3D/speech_balloon_3d.png" width="26" align="center"/>&nbsp; About Me
+
+> I'm an 18-year-old backend developer from Aydin, Turkey. I started coding at 13 and have spent the years since building Discord bots, APIs, and full-stack apps — mostly self-taught, always learning.
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **Role** | Backend Developer @ Moon Development |
+| **Location** | Aydin, Turkey |
+| **Age** | 18 &nbsp;·&nbsp; coding since 13 (5+ years) |
+| **Education** | Vocational High School (12th Grade) |
+| **Focus** | Discord Bots &nbsp;·&nbsp; RESTful APIs &nbsp;·&nbsp; Database Architecture |
+| **Currently** | Building scalable backend solutions |
 
 </div>
 
----
-
-## 📟 SYSTEM.INFO
-
-```javascript
-const developer = {
-  name: "Dark_Hunter",
-  role: "Backend Developer",
-  company: "Moon Development",
-  education: "Vocational High School (12th Grade)",
-
-  stack: {
-    backend: ["Node.js", "TypeScript", "Express.js"],
-    database: ["MongoDB"],
-    frontend: ["React", "Next.js"],
-    tools: ["Git", "Bun", "Vercel"]
-  },
-
-  experience: "5+ years",
-  specialization: ["Discord Bots", "RESTful APIs", "Database Architecture"],
-  status: "Building scalable backend solutions"
-};
-```
-
----
-
-## 🛠️ TECH.STACK
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3B82F6)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white)
 
-**Database**
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="26" align="center"/>&nbsp; Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,react,nextjs,html,css,git,bun,vercel,discordjs&theme=dark" alt="Tech Stack Icons"/>
+
+</div>
+
 <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=3B82F6)
 
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=3B82F6)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=3B82F6)
-
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-0a0a0a?style=flat-square&logo=bun&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GITHUB.STATS
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="26" align="center"/>&nbsp; GitHub Stats
 
 <div align="center">
 
@@ -92,34 +54,38 @@ const developer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-Hunter-TR&theme=dark&hide_border=true&background=0a0a0a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="26" align="center"/>&nbsp; Achievements
+
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Dark-Hunter-TR&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Pull%20Shark-0a0a0a?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Pull Shark"/>
+  <img src="https://img.shields.io/badge/YOLO-0a0a0a?style=for-the-badge&logo=github&logoColor=3B82F6" alt="YOLO"/>
+</p>
 
 </div>
 
----
+<br/>
 
-## 🧩 SERVICES.OFFERED
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Puzzle%20piece/3D/puzzle_piece_3d.png" width="26" align="center"/>&nbsp; What I'm Building
 
-```plaintext
-[01] Discord Bot Development
-     └─ Custom bots with advanced features and MongoDB integration
+| Service | Description |
+|:---|:---|
+| **Discord Bot Development** | Custom bots with advanced features and MongoDB integration |
+| **Backend API Development** | RESTful APIs built with Node.js and Express |
+| **Database Architecture** | Optimized MongoDB schemas and data modeling |
+| **Full-Stack Applications** | Modern web apps with React and Next.js |
+| **Technical Consultation** | Architecture design and technology selection |
 
-[02] Backend API Development
-     └─ RESTful APIs with Node.js and Express
+<br/>
 
-[03] Database Architecture
-     └─ Optimized MongoDB schemas and data modeling
-
-[04] Full-Stack Applications
-     └─ Modern web apps with React and Next.js
-
-[05] Technical Consultation
-     └─ Architecture design and technology selection
-```
-
----
-
-## 🚀 FEATURED.PROJECTS
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="26" align="center"/>&nbsp; Featured Projects
 
 <div align="center">
 
@@ -129,23 +95,13 @@ const developer = {
 [![TransForma](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=TransForma&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/TransForma)
 [![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=QRCode-Generator-Web&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/QRCode-Generator-Web)
 
+[![OpenAnime Desktops](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=OpenAnime-Desktops&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/OpenAnime-Desktops)
+
 </div>
 
----
+<br/>
 
-## 📈 SKILLS.MATRIX
-
-```text
-Backend Development     ████████████████████░  84%
-Node.js & TypeScript    ████████████████░░░░░  80%
-Database Management     ███████████████░░░░░░  75%
-API Development         ████████████████░░░░░  80%
-React & Frontend        ███████████████░░░░░░  79%
-```
-
----
-
-## 📡 CONTACT.INFO
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="26" align="center"/>&nbsp; Let's Connect
 
 <div align="center">
 
@@ -155,16 +111,12 @@ React & Frontend        ███████████████░░░�
 
 </div>
 
----
+<br/>
 
-## 📉 ACTIVITY.GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dark-Hunter-TR&theme=high-contrast&hide_border=true&bg_color=0a0a0a&color=3B82F6&line=3B82F6&point=ffffff&area=true&area_color=3B82F6" alt="Activity Graph" width="100%"/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:111111&height=150&section=footer" alt="footer banner" width="100%"/>
 
 <div align="center">
 
-**`</>` Built with passion by [Dark-Hunter-TR](https://github.com/Dark-Hunter-TR)**
+**Thanks for stopping by — let's build something great.** <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Growing%20heart/3D/growing_heart_3d.png" width="20" align="center"/>
 
 </div>
