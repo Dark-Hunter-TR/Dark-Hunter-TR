@@ -1,0 +1,55 @@
+name: Update Profile Assets
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch stat cards
+        run: |
+          mkdir -p assets
+
+          fetch() {
+            local url="$1" out="$2"
+            tmp=$(mktemp)
+            if curl -sfL "$url" -o "$tmp" && grep -q "<svg" "$tmp"; then
+              mv "$tmp" "$out"
+              echo "updated $out"
+            else
+              rm -f "$tmp"
+              echo "skipped $out (fetch failed, keeping previous version)"
+            fi
+          }
+
+          fetch "https://github-readme-stats.vercel.app/api?username=Dark-Hunter-TR&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&count_private=true" assets/stats.svg
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Hunter-TR&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&text_color=ffffff" assets/top-langs.svg
+          fetch "https://github-readme-streak-stats.herokuapp.com/?user=Dark-Hunter-TR&theme=dark&hide_border=true&background=0a0a0a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" assets/streak.svg
+          fetch "https://github-profile-trophy.vercel.app/?username=Dark-Hunter-TR&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" assets/trophy.svg
+          fetch "https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=discord.js-ts-template&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" assets/pin-discordjs-ts-template.svg
+          fetch "https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=discord.js-js-template&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" assets/pin-discordjs-js-template.svg
+          fetch "https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=TransForma&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" assets/pin-transforma.svg
+          fetch "https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=QRCode-Generator-Web&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" assets/pin-qrcode-generator-web.svg
+          fetch "https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=OpenAnime-Desktops&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" assets/pin-openanime-desktops.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh profile stat assets"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+          
