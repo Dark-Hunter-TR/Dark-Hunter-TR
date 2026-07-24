@@ -49,10 +49,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dark-Hunter-TR&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Hunter-TR&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&text_color=ffffff" alt="Top Languages" height="165"/>
+<img src="assets/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="assets/top-langs.svg" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-Hunter-TR&theme=dark&hide_border=true&background=0a0a0a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+<img src="assets/streak.svg" alt="GitHub Streak"/>
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dark-Hunter-TR&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<img src="assets/trophy.svg" alt="GitHub Trophies"/>
 
 <p>
   <img src="https://img.shields.io/badge/Pull%20Shark-0a0a0a?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Pull Shark"/>
@@ -89,13 +89,13 @@
 
 <div align="center">
 
-[![Discord.js TypeScript Template](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=discord.js-ts-template&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/discord.js-ts-template)
-[![Discord.js JavaScript Template](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=discord.js-js-template&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/discord.js-js-template)
+[![Discord.js TypeScript Template](assets/pin-discordjs-ts-template.svg)](https://github.com/Dark-Hunter-TR/discord.js-ts-template)
+[![Discord.js JavaScript Template](assets/pin-discordjs-js-template.svg)](https://github.com/Dark-Hunter-TR/discord.js-js-template)
 
-[![TransForma](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=TransForma&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/TransForma)
-[![QR Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=QRCode-Generator-Web&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/QRCode-Generator-Web)
+[![TransForma](assets/pin-transforma.svg)](https://github.com/Dark-Hunter-TR/TransForma)
+[![QR Code Generator](assets/pin-qrcode-generator-web.svg)](https://github.com/Dark-Hunter-TR/QRCode-Generator-Web)
 
-[![OpenAnime Desktops](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Hunter-TR&repo=OpenAnime-Desktops&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/Dark-Hunter-TR/OpenAnime-Desktops)
+[![OpenAnime Desktops](assets/pin-openanime-desktops.svg)](https://github.com/Dark-Hunter-TR/OpenAnime-Desktops)
 
 </div>
 
