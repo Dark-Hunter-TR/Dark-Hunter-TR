@@ -27,7 +27,6 @@
 | **Role** | Backend Developer @ Moon Development |
 | **Location** | Aydin, Turkey |
 | **Age** | 18 &nbsp;·&nbsp; coding since 13 (5+ years) |
-| **Education** | Vocational High School (12th Grade) |
 | **Focus** | Discord Bots &nbsp;·&nbsp; RESTful APIs &nbsp;·&nbsp; Database Architecture |
 | **Currently** | Building scalable backend solutions |
 
